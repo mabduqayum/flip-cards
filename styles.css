@@ -11,7 +11,7 @@
 }
 
 body {
-    background-image: url("world-map.jpg");
+    background-image: url("world-map.webp");
     display: flex;
     flex-direction: column;
     align-items: center;
